@@ -21,6 +21,8 @@
 }
 ._形状 {
 }
+.close_icon {
+}
 ._图片_ {
 }
 ._一级标题 {
@@ -86,6 +88,8 @@
 .checkbox {
   text-align:left;
 }
+._流程形状 {
+}
 .table_cell {
 }
 .form_hint {
@@ -94,6 +98,9 @@
 ._线段 {
 }
 ._连接 {
+}
+.sticky_1 {
+  text-align:left;
 }
 .form_disabled {
 }
@@ -162,6 +169,8 @@
   color:#4EDB7C;
 }
 .icon {
+}
+.box_3 {
 }
 .shape {
 }
